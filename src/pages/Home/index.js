@@ -35,7 +35,7 @@ export default function Home() {
            <ViewContent>
                 <TextContentFooter>
                 Bem vindo ao aplicativo{'\n'}
-                algum texto sobre o aplicativo aqui
+                qualquer
                 </TextContentFooter>
             </ViewContent>
         </Header>
