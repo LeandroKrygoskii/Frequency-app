@@ -34,7 +34,7 @@ export default function Home() {
            </ViewImage>
            <ViewContent>
                 <TextContentFooter>
-                Bem vindo ao aplicativo{'\n'}
+                Bem vindo{'\n'}
                 algum texto sobre o aplicativo aqui
                 </TextContentFooter>
             </ViewContent>
